@@ -1,0 +1,9 @@
+@ITEM=1=Apple
+@ITEM=2=Banana
+@ITEM=3=Milk
+@ITEM=4=Yogurt
+@ITEM=5=Bread
+@ITEM=100=Fruit
+@ITEM=101=Dairy
+@ITEM=102=Bakery
+@ITEM=200=Food

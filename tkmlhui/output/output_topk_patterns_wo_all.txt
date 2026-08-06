@@ -1,0 +1,7 @@
+Dataset: input/toy_fruit | k = 5
+Rank	Utility	Pattern (id:name)
+1	71	{200:Category-200, 100:Category-100, 300:Category-300}
+2	62	{100:Category-100, 300:Category-300}
+3	53	{200:Category-200, 100:Category-100}
+4	48	{2:xoai, 1:cam, 5:nho}
+5	43	{200:Category-200, 300:Category-300}

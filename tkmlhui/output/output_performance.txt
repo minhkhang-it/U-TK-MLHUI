@@ -1,0 +1,21 @@
+Variant              | k      | Dataset              | Execution Time     | Peak Memory    | Candidates   | Scanned Lists   
+-------------------------------------------------------------------------------------------------------------------
+TK-MLHUI             | 5      | input/toy_fruit      | 34 ms              | 3.16 MB        | 26           | 31              
+TK-MLHUI-wo-all      | 5      | input/toy_fruit      | 2 ms               | 4.16 MB        | 79           | 91              
+TK-MLHUI-wo-merge    | 5      | input/toy_fruit      | 1 ms               | 4.16 MB        | 26           | 33              
+TK-MLHUI             | 1000   | input/fruithut       | 2597 ms            | 611.67 MB      | 19969        | 1015748         
+TK-MLHUI             | 10     | input/chess          | 364 ms             | 56.51 MB       | 542          | 3990            
+TK-MLHUI             | 10     | input/chess          | 371 ms             | 56.94 MB       | 542          | 3990            
+TK-MLHUI-wo-merge    | 10     | input/chess          | 395 ms             | 57.94 MB       | 542          | 13523           
+TK-MLHUI             | 10     | input/chess          | 357 ms             | 56.51 MB       | 542          | 3990            
+TK-MLHUI             | 1000   | input/fruithut       | 2727 ms            | 603.00 MB      | 19969        | 1015748         
+TK-MLHUI             | 1000   | input/fruithut       | 2607 ms            | 596.32 MB      | 19969        | 1015748         
+TK-MLHUI             | 10     | input/chess          | 391 ms             | 58.03 MB       | 542          | 3990            
+TK-MLHUI             | 1000   | input/fruithut       | 2827 ms            | 611.85 MB      | 19969        | 1015748         
+TK-MLHUI             | 100    | input/chess          | 545 ms             | 57.61 MB       | 38823        | 42561           
+TK-MLHUI             | 2961 ms            | 605.21 MB      | 19969        | 1015748         
+TK-MLHUI             | 1000   | input/fruithut       | 2870 ms            | 610.65 MB      | 19969        | 1015748         
+TK-MLHUI-wo-merge    | 1000   | input/fruithut       | 3426 ms            | 633.00 MB      | 19969        | 1579105         
+TK-MLHUI             | 100000 | input/fruithut       | 7164 ms            | 644.41 MB      | 1379779      | 4274868         
+TK-MLHUI-wo-merge    | 100000 | input/fruithut       | 7040 ms            | 704.00 MB      | 1379779      | 4838225         
+TK-MLHUI             | 10     | input/accidents      | 15830 ms           | 2214.50 MB     | 3855         | 1601347         
