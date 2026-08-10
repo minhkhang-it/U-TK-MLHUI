@@ -1,6 +1,0 @@
-Variant              | k      | Dataset              | Execution Time      | Peak Memory    | Candidates   | Scanned Lists
-mltko                | 100    | chess                | 9255 ms             | 513.30 MB      | 139722       | 139613
-mltko                | 1000   | fruithut             | 12384 ms            | 618.64 MB      | 89844        | 90941
-mltko                | 5      | toy                  | 18 ms               | 2.16 MB        | 30           | 21
-mltko                | 1000   | fruithut             | 12416 ms            | 618.94 MB      | 89844        | 90941
-mltko                | 10     | accidents            | 495043 ms           | 3166.96 MB     | 18220        | 17765
