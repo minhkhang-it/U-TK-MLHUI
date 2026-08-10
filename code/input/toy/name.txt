@@ -1,0 +1,6 @@
+@ITEM=1=cam
+@ITEM=2=xoai
+@ITEM=3=tao
+@ITEM=4=chuoi
+@ITEM=5=nho
+@ITEM=6=dua

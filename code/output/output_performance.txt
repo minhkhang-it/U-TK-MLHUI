@@ -1,0 +1,17 @@
+Variant              | k      | Dataset              | Execution Time     | Peak Memory    | Candidates   | Scanned Lists   
+mltko                | 5      | toy                  | 15 ms              | 2.16 MB        | 30           | 21              
+TK-MLHUI             | 5      | toy                  | 33 ms              | 3.16 MB        | 26           | 31              
+TK-MLHUI-wo-all      | 5      | toy                  | 36 ms              | 3.16 MB        | 79           | 91              
+TK-MLHUI             | 5      | toy                  | 67 ms              | 3.16 MB        | 26           | 31              
+TK-MLHUI-wo-all      | 5      | toy                  | 2 ms               | 4.16 MB        | 79           | 91              
+TK-MLHUI-wo-merge    | 5      | toy                  | 3 ms               | 4.16 MB        | 26           | 33              
+mltko                | 100000 | fruithut             | 15743 ms           | 711.89 MB      | 2289569      | 2357983         
+TK-MLHUI             | 100000 | fruithut             | 7238 ms            | 663.00 MB      | 1379779      | 4274868         
+mltko                | 1000000 | fruithut             | 26465 ms           | 2035.00 MB     | 9853153      | 11112293        
+TK-MLHUI             | 1000000 | fruithut             | 15682 ms           | 1309.50 MB     | 6113288      | 11537298        
+mltko                | 100    | chess                | 7035 ms            | 518.25 MB      | 139722       | 139613          
+TK-MLHUI             | 100    | chess                | 483 ms             | 57.85 MB       | 38823        | 42561           
+mltko                | 1000   | chess                | 36068 ms           | 538.85 MB      | 855078       | 854969          
+TK-MLHUI             | 1000   | chess                | 1096 ms            | 236.74 MB      | 308802       | 312739          
+mltko                | 10000  | chess                | 172396 ms          | 759.25 MB      | 4196876      | 4196767         
+TK-MLHUI             | 10000  | chess                | 2780 ms            | 824.44 MB      | 1902527      | 1906598         
