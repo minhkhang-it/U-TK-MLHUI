@@ -1,0 +1,2 @@
+Transactions kept: 181605
+Leaf items (tu Viet duy nhat): 16038  Variant items: 13309  Lemma groups: 12167
